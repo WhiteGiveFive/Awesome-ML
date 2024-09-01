@@ -9,7 +9,7 @@ This document records my literature review, including a list of papers with link
 
 ---
 ## Courses
-- [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications/lesson/1/introduction), fintining LLM.
+- [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications/lesson/1/introduction), Deeplearning.AI, fintining LLM.
 - 
 ---
 
