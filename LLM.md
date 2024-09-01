@@ -8,6 +8,10 @@ This document records my literature review, including a list of papers with link
 - [Paper 3: Title of the Third Paper](#paper-3-title-of-the-third-paper)
 
 ---
+## Courses
+- [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications/lesson/1/introduction), fintining LLM.
+- 
+---
 
 ## Paper 1: Title of the First Paper
 
