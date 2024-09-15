@@ -4,6 +4,9 @@
 
 
 ### loading the images from folders
+I would prefer using OpenCV or PIL to load images from a folder. This is because I have more freedom later to split the dataset and customise the labels. Basicly, I want to build a class similar to the torch function that loads CIFAR-10, controlled by a argument to output training/valid/test sets.
+
+- [OpenCV Vs PIL](https://www.geeksforgeeks.org/image-processing-opencv-vs-pil/)
 - Using the torchvision.ImageFolder method
   - [How to load png using dta loader](https://discuss.pytorch.org/t/how-to-load-png-using-dataloader/17079)
   - [Intro-to-PyTorch: Loading Image Data](https://www.kaggle.com/code/leifuer/intro-to-pytorch-loading-image-data)
