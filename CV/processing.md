@@ -20,4 +20,6 @@ Stratified K-fold
 
 ### Some advanced image augmentation techniques
 
+What problems can data augmentation solve? Can it solve the domain shift problem?
+
 [YOLO10 Explanation](https://medium.com/@saiwadotai/yolov10-explanation-features-and-implementation-c67b49e44120)
