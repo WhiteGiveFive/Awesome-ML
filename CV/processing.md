@@ -17,3 +17,7 @@ I would prefer using OpenCV or PIL to load images from a folder. This is because
 Stratified
 K-fold
 Stratified K-fold
+
+### Some advanced image augmentation techniques
+
+[YOLO10 Explanation](https://medium.com/@saiwadotai/yolov10-explanation-features-and-implementation-c67b49e44120)
