@@ -23,3 +23,7 @@ Stratified K-fold
 What problems can data augmentation solve? Can it solve the domain shift problem?
 
 [YOLO10 Explanation](https://medium.com/@saiwadotai/yolov10-explanation-features-and-implementation-c67b49e44120)
+
+## Comprehensive methods
+
+[CVinW_Readings](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings?tab=readme-ov-file#orange_book-image-classification-in-the-wild), this repo introduces the research of adapting CV to the wild.
