@@ -5,7 +5,9 @@
 - [ML cheatsheets](https://stanford.edu/~shervine/teaching/), by [Shervine Amid](https://stanford.edu/~shervine/)
 - [ML playbook](https://medium.com/@kgk.singhal/how-to-ace-machine-learning-interviews-my-personal-playbook-a75794155157), by [Kartik Singhal](https://medium.com/@kgk.singhal)
 - [Distill](https://distill.pub/), includes introductions to the GNN, RL, and a few interesting ML topics.
-- [2021 AI4Health practical session](https://epione.gitlabpages.inria.fr/flhd/index.html), has some very good posts and practice on basics of FL and VAE. 
+- [2021 AI4Health practical session](https://epione.gitlabpages.inria.fr/flhd/index.html), has some very good posts and practice on basics of FL and VAE.
+- [Lil'Log](https://lilianweng.github.io/), very well written and oganised posts coverring various topics in FL.
+- [Eric Jang](https://blog.evjang.com/2018/12/uncertainty.html), another ML post reservior similar to Lil'log. 
 
 
 ## Practice
