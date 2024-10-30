@@ -1,6 +1,7 @@
 ## Image Preprocessing Before Training
 
 - [Image Processing in Python with Pillow](https://auth0.com/blog/image-processing-in-python-with-pillow/)
+- [Torchvision transformation illustrations](https://pytorch.org/vision/main/auto_examples/transforms/plot_transforms_illustrations.html#sphx-glr-auto-examples-transforms-plot-transforms-illustrations-py)
 
 
 ### loading the images from folders
